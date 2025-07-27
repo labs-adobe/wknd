@@ -13,7 +13,6 @@
       "carousel",
       "columns",
       "contentfragment",
-      "dm-asset",
       "dm-template",
       "fragment",
       "hero",
@@ -47,7 +46,6 @@
     "id": "column",
     "components": [
       "button",
-      "dm-asset",
       "dm-template",
       "image",
       "text",      
