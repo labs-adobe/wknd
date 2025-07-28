@@ -19,12 +19,6 @@
   - Quickly create and customize new sites as per your own brand
   - Template contains placeholder blocks with various styling options
 
-## Environments
-- Preview: https://main--wknd--aemxsc.aem.page/
-- Live: https://main--wknd--aemxsc.aem.live/
-
-## Documentation
-Adobe Internal: [Quick HowTo](https://adobe-my.sharepoint.com/:w:/p/kmrobin/ESzDGcEecKJAsaLws8Vh6FkBS8JVApQG6YrmyESlufHP3A?e=nL2bYY) 
 
 ## Prerequisites
 Install the latest content package from link shared in Quick HowTo document above. 
